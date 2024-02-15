@@ -1,0 +1,19 @@
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Satisfy', cursive; */
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+.main{
+    background-image:url(../images/bg-quote.png) ;
+}
+#qoute{
+    max-width:70%;
+    text-align: center;
+    display: inline-block;
+}
+#qoute,#author{
+    font-size: 20px;
+    font-weight: 400;
+ 
+}
